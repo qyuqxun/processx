@@ -43,6 +43,7 @@
 #include <time.h>
 #include <signal.h>
 #include <unistd.h>
+#include <bits/sigaction.h>
 
 #ifdef WIN32
 #include "windows.h"
